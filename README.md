@@ -1,5 +1,5 @@
 # Stochastic-processes-1
-My Course at TU berlin. The topics covered in this course are:
+My Course at TU berlin WS24/25. The topics covered in this course are:
 1. Measure and Integration Theory
 2. (Supplements to) Independence
 3. Stochastic Processes in Discrete Time
